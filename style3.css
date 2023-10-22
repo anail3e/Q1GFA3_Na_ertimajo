@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#color{
+    background-color: #D4CAB7;
+}
+
+#navbar header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1px ;
+    background-color: #EDE6D8;
+    height: 20px;
+}
+.title{
+    color: #544434;
+    text-align: right;
+    font-size: 1.5vw;
+    background-color: #EDE6D8;
+    padding-bottom: 12px;
+}
+
+.profileicon{
+    width: 63px;
+    height: 55px;
+    margin-left: 5px;
+    position: fixed;
+}
+.sidenavbar{
+    margin-left: 25px;
+    width: 58px;
+    height: 673px;
+    background-color: #EDE6D8;
+    position: fixed;
+    border-radius: 20px;
+}
+.links{
+    padding: 6px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.links img{
+    border-radius: 10px;
+    margin-left: 6px;
+    margin-top: 15px;
+    width: 35px;
+    background-color:#f9f9f9;
+}
+
+.content{
+    position: absolute;
+    left: 8%;
+    display: inline;
+}
+.content{
+    font-size: 2.5vw;
+    color: rgb(28, 24, 19);
+}
+
+.content{
+    margin-left: 20px;
+    margin-top: 10px;
+    color:#121211;
+}
+
+.pics{
+    margin-left: 100px;
+    display: inline;
+}
+
+.pics2{
+    margin-left: 100px;
+    display: inline;
+}
+
+.diffunis img{
+    width: 525px;
+    height: 400px;
+    margin: 20px;
+}
+
+.specialisations img{
+    width: 560px;
+    height: 400px;
+    margin: 20px;
+}
+
+.programs img{
+    width: 505px;
+    height: 400px;
+    margin: 20px;
+}
+
+.domains img{
+    width: 490px;
+    height: 400px;
+    margin: 20px;
+}
+
+.gmscore img{
+    width: 700px;
+    height: 400px;
+    margin: 20px;
+}
+
+.domainscore img{
+    width: 700px;
+    height: 400px;
+    margin: 20px;
+}
+
+.tscore img{
+    width: 700px;
+    height: 400px;
+    margin: 20px;
+}
+
+.pics2{
+    display: inline-block;
+}
